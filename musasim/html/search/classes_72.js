@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['registergroup',['registergroup',['../structregistergroup.html',1,'']]],
   ['registers',['registers',['../structregisters.html',1,'']]],
-  ['replace_5fstruct',['replace_struct',['../structreplace__struct.html',1,'']]]
+  ['ringbuffer',['ringbuffer',['../structringbuffer.html',1,'']]]
 ];

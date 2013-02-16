@@ -1,5 +1,7 @@
 var searchData=
 [
+  ['input_5fdebugleds',['input_debugleds',['../input__registers_8h.html#acbb3fc9a24a55ad4ba29e62385e1ad04',1,'input_registers.h']]],
+  ['input_5fdips',['input_dips',['../input__registers_8h.html#a635d9b26118fa9f62be0a88082131406',1,'input_registers.h']]],
   ['input_5fport0',['input_port0',['../input__registers_8h.html#af8ce1bd323d218c5332a926dd4015682',1,'input_registers.h']]],
   ['input_5fport1',['input_port1',['../input__registers_8h.html#a99561a8974b0e914f3ccea7de8b9065b',1,'input_registers.h']]],
   ['input_5frng',['input_rng',['../input__registers_8h.html#adf157bd9f159bac7a8421006f45dd480',1,'input_registers.h']]],

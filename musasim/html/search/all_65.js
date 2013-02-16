@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['ea_5finfo_5fstruct',['ea_info_struct',['../structea__info__struct.html',1,'']]]
+  ['either',['either',['../structeither.html',1,'']]],
+  ['elf_5fload',['elf_load',['../elfloader_8h.html#a1e8600ec293385cd39cde283240f824c',1,'elfloader.c']]],
+  ['elfloader_2eh',['elfloader.h',['../elfloader_8h.html',1,'']]]
 ];

@@ -3,10 +3,18 @@ var searchData=
   ['video_5fbegin',['video_begin',['../video_8h.html#a7baf4cc157b4a55926f7c6adedcb05cf',1,'video.h']]],
   ['video_5fblitimage',['video_blitimage',['../video_8h.html#aed5341d25aa8704db78ecc19766d6a23',1,'video.h']]],
   ['video_5fblitimage_5fnocopy',['video_blitimage_nocopy',['../video_8h.html#a3442523a11561346f126de3c3a9f2780',1,'video.h']]],
-  ['video_5fclear',['video_clear',['../video_8h.html#ad6f05b392109479d6cd2dc066e0f9083',1,'video.h']]],
+  ['video_5fclear',['video_clear',['../video_8h.html#a468eaf9180e93237db17e151b6fb5bb2',1,'video.h']]],
   ['video_5fcommit',['video_commit',['../video_8h.html#a5e4d257fbe3bdda217a3ce38d12a2e43',1,'video.h']]],
   ['video_5fdrawline',['video_drawline',['../video_8h.html#a9a5d8521f1c909a70581e6533ca9b554',1,'video.h']]],
   ['video_5ffillrect',['video_fillrect',['../video_8h.html#aa1a93999d3278b1a334c224ca8731400',1,'video.h']]],
   ['video_5fflip',['video_flip',['../video_8h.html#ae1d64a083cf1c6dfbde6d623fa4018cc',1,'video.h']]],
-  ['video_5fgputs',['video_gputs',['../video_8h.html#ac263b1e37105f975fff39fcbe2027aac',1,'video.h']]]
+  ['video_5fgputs',['video_gputs',['../video_8h.html#a1be33ddd8c91046ba59931110bd6348e',1,'video.h']]],
+  ['vt100_5fcursor_5fhome',['vt100_cursor_home',['../vt100_8h.html#aaefc3900a9e85b28ba4b4bd307404742',1,'vt100.h']]],
+  ['vt100_5fcursor_5fhome_5fpos',['vt100_cursor_home_pos',['../vt100_8h.html#aa9e680246ecba555262e11917c43ac6b',1,'vt100.h']]],
+  ['vt100_5fcursor_5fsave',['vt100_cursor_save',['../vt100_8h.html#ad5197bf81e11a794bb53890dec12075a',1,'vt100.h']]],
+  ['vt100_5fcursor_5funsave',['vt100_cursor_unsave',['../vt100_8h.html#a63981027e71aa9884d014f2ef56e274a',1,'vt100.h']]],
+  ['vt100_5ferase_5fline',['vt100_erase_line',['../vt100_8h.html#aac1481bd7f1e56bfae11ed1d13851fe4',1,'vt100.h']]],
+  ['vt100_5ferase_5fscreen',['vt100_erase_screen',['../vt100_8h.html#a95032b4e90f47b474cf5ee678a681364',1,'vt100.h']]],
+  ['vt100_5fresetdevice',['vt100_resetdevice',['../vt100_8h.html#aea247177ced9701e903fd194e0996788',1,'vt100.h']]],
+  ['vt100_5fsetattributes',['vt100_setattributes',['../vt100_8h.html#a34a1beb91dd84634351e1ee9e807e978',1,'vt100.h']]]
 ];
